@@ -1,3 +1,4 @@
+# How to clean DNS cache
 * First, open up Terminal and copy the following commands:
 ```
 sudo dscacheutil -flushcache
